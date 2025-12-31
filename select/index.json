@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "LA･LA･LA LOVE SONG　～Midnight Piano Version",
+  "base_artist": "Toshinobu Kubota",
+  "createdAt": "2025-12-31T18:14:34.919793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG ～Midnight Piano Version～",
+      "artist": "久保田利伸",
+      "has_synced": true,
+      "path": "select/01_LA・LA・LA_LOVE_SONG_~Midnight_Piano_Version~_久保田利伸.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG ～Midnight Piano Version",
+      "artist": "久保田利伸",
+      "has_synced": false,
+      "path": "select/02_LA・LA・LA_LOVE_SONG_~Midnight_Piano_Version_久保田利伸.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG ～Midnight Piano Version～",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_01_LA・LA・LA_LOVE_SONG_~Midnight_Piano_Version~_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG ～Midnight Piano Version～",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_02_LA・LA・LA_LOVE_SONG_~Midnight_Piano_Version~_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LA LA LA LOVE SONG ～Midnight Piano Version～",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_03_LA_LA_LA_LOVE_SONG_~Midnight_Piano_Version~_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LA LA LA LOVE SONG ～Midnight Piano Version～",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_04_LA_LA_LA_LOVE_SONG_~Midnight_Piano_Version~_久保田_利伸.txt"
+    }
+  ]
+}
